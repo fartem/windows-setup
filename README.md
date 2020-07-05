@@ -1,5 +1,7 @@
 # Windows setup
 
+Using Windows OS's and soft.
+
 ## OS
 
 | Version | Comment |
