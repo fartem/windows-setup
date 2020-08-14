@@ -8,8 +8,7 @@ Using Windows OS's and soft.
 
 | Version | Comment |
 | --- | --- |
-| Windows 10 Home | For home use only |
-| Windows 10 Pro | For commercial use |
+| Windows 10 Pro | |
 
 ## Soft
 
@@ -21,3 +20,4 @@ Using Windows OS's and soft.
 * [Office](./soft/categories/office.md)
 * [Multimedia](./soft/categories/multimedia.md)
 * [Other](./soft/categories/other.md)
+
