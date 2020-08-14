@@ -4,3 +4,4 @@
 | --- | --- | --- | --- | --- |
 | VLC | Multimedia player | https://www.videolan.org |
 | Spotify | Music streaming | https://www.spotify.com |
+
