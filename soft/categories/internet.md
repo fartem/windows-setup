@@ -2,7 +2,7 @@
 
 | Program | Description | Link | Plugins | Comment |
 | --- | --- | --- | --- | --- |
-| Vivaldi | Web browser | https://www.vivaldi.com | [LastPass Password Manager](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd), [DuckDuckGo Privacy Essentials](https://chrome.google.com/webstore/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg), [Tab Wrangler](https://chrome.google.com/webstore/detail/tab-wrangler/egnjhciaieeiiohknchakcodbpgjnchh) |
+| Waterfox | Web browser | https://www.waterfox.net | [Adblock Plus](https://addons.mozilla.org/en-US/firefox/addon/adblock-plus), [SaveFrom.net helper all-in-1 / youtube downloader](https://addons.mozilla.org/en-US/firefox/addon/savefromnet-helper), [Grammarly for Firefox](https://addons.mozilla.org/en-US/firefox/addon/grammarly-1), [LastPass Password Manager](https://addons.mozilla.org/en-US/firefox/addon/lastpass-password-manager), [DuckDuckGo Privacy Essentials](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/) |
 | Thunderbird | Email client | https://www.thunderbird.net  |
 | Transmission | Torrent client | https://transmissionbt.com |
 
