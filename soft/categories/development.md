@@ -8,4 +8,3 @@
 | Visual Studio Code | Text editor for Ruby/Web/JavaScript/etc development | https://code.visualstudio.com | [ide-settings](https://github.com/fartem/ide-settings/tree/master/vscode/extensions) |
 | SDKMAN! | SDK managing tool | https://sdkman.io |
 | DB Browser for SQLite | Database explorer | https://sqlitebrowser.org |
-
